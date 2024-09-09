@@ -7,7 +7,7 @@ const Header = () => {
     <>
         <header>
             <Navbar expand='lg' bg='light' variant='light' > 
-            <Navbar.Toggle aria-controls='basic-navbar-nav'/>
+            <Navbar.Toggle aria-controls='basic-navbar-nav'/>Contact
                 <Navbar.Brand>Kevin Foughty's portfolio</Navbar.Brand>
                 <Nav className='ms-auto'>
                   <Nav.Link> <FaPhone/> Contact</Nav.Link>
